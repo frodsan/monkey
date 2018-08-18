@@ -19,7 +19,7 @@ This is an interpreted language written in Go. Monkey has the following features
 
 ## Future
 
-This is some extra features that can be implemented:
+This is some extra features that can be implemented in the future:
 
 - UTF-8 support.
 - Use a file as an input too.
