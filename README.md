@@ -1,6 +1,6 @@
 # monkey
 
-The Monkey programming language. This code is based on the book ["Writing an Interpreter in Go"](https://interpreterbook.com) by Thorsten Ball.
+The Monkey programming language. From the book ["Writing an Interpreter in Go"](https://interpreterbook.com) by Thorsten Ball.
 
 ## Description
 
